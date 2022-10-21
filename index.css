@@ -105,7 +105,6 @@ body {
     flex-wrap: wrap;
     justify-content: center;
 }
-
 /* for 3rd page end */
 
 .cardbox {
@@ -212,7 +211,7 @@ body {
 
 #popup-text {
     height: 20px;
-    width: 450px;
+    width: 80%;
     margin-top: 40px;
 }
 
